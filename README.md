@@ -1,2 +1,2 @@
-The app is deployed automatically by Github Actions to Heroku
+The app is deployed automatically by Github Actions to HEROKU
 https://unicafecounter.herokuapp.com/
